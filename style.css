@@ -1,0 +1,19 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    
+    
+  }
+  
+  .container{
+    border: 1px solid red;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    justify-content: start;
+    align-items: center;
+  }
